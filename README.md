@@ -9,9 +9,10 @@ France is hosting 24 teams for the Women's World Cup. Though the athletes play p
 
 # Files
 
-`FWWC 1995-2019 squad lists.xlsx`		Main data file containing squad lists of all players from FIFA Women's World Cups from 1995 to 2019.
-
-`data/...`								Source PDFs with the squad lists.
+| Name | Content |
+|---|---|
+| [`FWWC 1995-2019 squad lists.xlsx`](https://github.com/dw-data/fwwc2019/raw/master/FWWC%201995-2019%20squad%20lists.xlsx)	| Main data file containing squad lists of all players from FIFA Women's World Cups from 1995 to 2019 |
+|[`data/...`](https://github.com/dw-data/fwwc2019/tree/master/data) | Source PDFs with the squad lists |
 
 
 # Dataset description
